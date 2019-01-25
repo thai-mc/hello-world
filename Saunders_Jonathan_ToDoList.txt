@@ -1,0 +1,6 @@
+-Read through intro ppt
+-Read through 203 Topics review ppt
+-Read ADT bag ppt and review the book ch1 for more info if needed
+-Read Java Exceptions ppt and review the book ch2 for more info if needed
+-review the class examples
+-look over project 1 and see if there is anything there that I can start with
