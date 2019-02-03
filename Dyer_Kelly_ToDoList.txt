@@ -1,0 +1,4 @@
+-Read Chapter 5,6,7,8 (Stack and Queue)
+-Linked List lab
+-Quiz
+-Assignment 1(due in 1 week)
