@@ -1,0 +1,5 @@
+To-Do List
+-Finish gui for project 1
+-Finish write-up for project 1
+-Complete Linked Data Lab
+-Review modules 4,5,6
