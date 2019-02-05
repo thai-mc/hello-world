@@ -1,6 +1,6 @@
--GitHub Lab (due Friday)
--Linked List Lab (due Friday)
--Quiz 2 (due Friday)
--Chapter Reading (due Saturday)
--Project 1 (due Sunday)
--Tax returns (due sooner rather than later)
+*GitHub Lab (due Friday) - In Progress
+-Linked List Lab (due Friday) - Not Started
+-Quiz 2 (due Friday) - Not Started
+*Chapter Reading (due Saturday) - In Progress
+*Project 1 (due Sunday) - In Progress
+-Tax returns (due sooner rather than later) - Not Started
