@@ -1,4 +1,4 @@
-*GitHub Lab (due Friday) - In Progress
++GitHub Lab (due Friday) - DONE
 -Linked List Lab (due Friday) - Not Started
 -Quiz 2 (due Friday) - Not Started
 *Chapter Reading (due Saturday) - In Progress
