@@ -1,0 +1,6 @@
+To Do:
+Read Chapters 5-8
+Review UML Basics document
+Finish the Bag ADT Lab
+Finish Project 1
+Take quiz 2
