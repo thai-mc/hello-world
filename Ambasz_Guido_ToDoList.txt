@@ -1,0 +1,22 @@
+* TODO LIST
+** Saturday
+*** TODO Attend CMSC 204 class
+*** TODO Finish CMSC 204 Project Due Sunday
+*** DONE Finish Github assignmnet
+** Sunday
+*** TODO Study for MATH280
+*** TODO Do HW for CMSC207
+** Monday
+*** TODO Find something useful to do
+** Tuesday
+*** TODO Go to MATH280 class
+*** TODO Go to ANTH215 class
+*** TODO Go to CMSC207 class
+** Wednesday
+*** TODO Go to internship at MC
+** Thursday
+*** TODO Go to MATH280 class
+*** TODO Go to ANTH215 class
+*** TODO Go to CMSC207 class
+** Friday
+*** TODO Find something useful to do
